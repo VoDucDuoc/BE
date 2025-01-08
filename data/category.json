@@ -1,0 +1,429 @@
+[
+    {
+        "isAvailable": true,
+        "name": "Camera",
+        "slug": "Camera",
+        "normalField": [
+            {
+                "name": "Special Feature"
+            },
+            {
+                "name": "White balance settings"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Brand",
+                "value": [
+                    "Nikon",
+                    "Canon",
+                    "Fujifilm",
+                    "Sony",
+                    "Samsung"
+                ]
+            },
+            {
+                "name": "Form factor",
+                "value": [
+                    "Mirrorless",
+                    "SLR"
+                ]
+            },
+            {
+                "name": "Continuous Shooting Speed",
+                "value": [
+                    "9fps",
+                    "6fps",
+                    "12fps"
+                ]
+            },
+            {
+                "name": "JPEG quality level",
+                "value": [
+                    "Basic",
+                    "Fine",
+                    "Normal"
+                ]
+            },
+            {
+                "name": "Shooting Modes",
+                "value": [
+                    "Aperture Priority",
+                    "Automatic",
+                    "Manual",
+                    "Program"
+                ]
+            },
+            {
+                "name": "Lens Type",
+                "value": [
+                    "Telephoto",
+                    "Interchangeable",
+                    "Fisheye"
+                ]
+            }
+        ]
+    },
+    {
+        "isAvailable": true,
+        "name": "PC",
+        "slug": "PC",
+        "normalField": [
+            {
+                "name": "Series"
+            },
+            {
+                "name": "Operating System"
+            },
+            {
+                "name": "CPU Model"
+            },
+            {
+                "name": "Screen size"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Computer usage",
+                "value": [
+                    "Gaming",
+                    "Multimedia",
+                    "Personal",
+                    "Business",
+                    "Education"
+                ]
+            },
+            {
+                "name": "RAM",
+                "value": [
+                    "16 GB",
+                    "8 GB",
+                    "4 GB",
+                    "32 GB",
+                    "64 GB"
+                ]
+            },
+            {
+                "name": "Brand",
+                "value": [
+                    "CyberpowerPC",
+                    "Skytech Gaming",
+                    "Acer",
+                    "Computer Upgrade King",
+                    "Logitech",
+                    "MSI",
+                    "Lenovo",
+                    "Acer",
+                    "ASUS"
+                ]
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": [
+                    "Intel",
+                    "AMD",
+                    "IBM",
+                    "Rockchip",
+                    "Teradici"
+                ]
+            },
+            {
+                "name": "Hard drive type",
+                "value": [
+                    "Solid State Drive",
+                    "Mechanical Hard Drive",
+                    "Hybrid Drive"
+                ]
+            },
+            {
+                "name": "Resolution",
+                "value": [
+                    "1024x768",
+                    "1920x1028",
+                    "1920x1080",
+                    "3840x2160"
+                ]
+            },
+            {
+                "name": "Connectivity",
+                "value": [
+                    "Ethernet",
+                    "HDMI",
+                    "USB"
+                ]
+            }
+        ]
+    },
+    {
+        "isAvailable": true,
+        "name": "Tivi",
+        "slug": "Tivi",
+        "normalField": [
+            {
+                "name": "Screen size"
+            },
+            {
+                "name": "Supported Internet Services"
+            },
+            {
+                "name": "Display Technology"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Connectivity",
+                "value": [
+                    "Bluetooth",
+                    "Ethernet",
+                    "USB",
+                    "Wireless",
+                    "HDMI"
+                ]
+            },
+            {
+                "name": "Control method",
+                "value": [
+                    "App",
+                    "Remote",
+                    "Touch",
+                    "Voice"
+                ]
+            },
+            {
+                "name": "Brand",
+                "value": [
+                    "TCL",
+                    "Amazon",
+                    "VIZIO",
+                    "SAMSUNG",
+                    "Hisense",
+                    "LG",
+                    "RCA"
+                ]
+            },
+            {
+                "name": "Resolution",
+                "value": [
+                    "8K",
+                    "4K",
+                    "1080p",
+                    "720p"
+                ]
+            },
+            {
+                "name": "Features",
+                "value": [
+                    "3D",
+                    "Smart TV"
+                ]
+            },
+            {
+                "name": "Refresh Rate",
+                "value": [
+                    "60Hz",
+                    "120Hz",
+                    "240Hz"
+                ]
+            },
+            {
+                "name": "Screen Type",
+                "value": [
+                    "Curved",
+                    "Flat"
+                ]
+            }
+        ]
+    },
+    {
+        "isAvailable": true,
+        "name": "Microphone",
+        "slug": "Microphone",
+        "normalField": [
+            {
+                "name": "Connector type"
+            },
+            {
+                "name": "Item weight"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Brand",
+                "value": [
+                    "Blue Microphones",
+                    "Singing Machine",
+                    "BlueFire",
+                    "HyperX",
+                    "Razer"
+                ]
+            },
+            {
+                "name": "Connectivity",
+                "value": [
+                    "Wireless",
+                    "USB",
+                    "Wired"
+                ]
+            },
+            {
+                "name": "Polar Pattern",
+                "value": [
+                    "Multipattern",
+                    "Unidirectional",
+                    "Cardioid",
+                    "Bidirectional"
+                ]
+            },
+            {
+                "name": "Audio Sensitivity",
+                "value": [
+                    "90dB",
+                    "120dB",
+                    "150dB"
+                ]
+            },
+            {
+                "name": "Power source",
+                "value": [
+                    "Battery Powered",
+                    "Corded Electric",
+                    "AC"
+                ]
+            },
+            {
+                "name": "Refresh Rate",
+                "value": [
+                    "60Hz",
+                    "120Hz",
+                    "240Hz"
+                ]
+            },
+            {
+                "name": "Screen Type",
+                "value": [
+                    "Curved",
+                    "Flat"
+                ]
+            }
+        ]
+    },
+    {
+        "isAvailable": true,
+        "name": "Music player",
+        "slug": "Music-player",
+        "normalField": [
+            {
+                "name": "Screen size"
+            },
+            {
+                "name": "Battery life"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Brand",
+                "value": [
+                    "Sony",
+                    "SanDisk",
+                    "TIMMKOO",
+                    "Hotechs",
+                    "Aiworth"
+                ]
+            },
+            {
+                "name": "Memory storage capacity",
+                "value": [
+                    "8GB",
+                    "32GB"
+                ]
+            },
+            {
+                "name": "Media type",
+                "value": [
+                    "Micro SD",
+                    "Micro SDHC",
+                    "SD Card"
+                ]
+            },
+            {
+                "name": "Supported standard",
+                "value": [
+                    "MP3",
+                    "WMA",
+                    "WAV",
+                    "AAC",
+                    "AIFF"
+                ]
+            },
+            {
+                "name": "Connectivity",
+                "value": [
+                    "Bluetooth",
+                    "USB"
+                ]
+            }
+        ]
+    },
+    {
+        "isAvailable": true,
+        "name": "Mobile",
+        "slug": "Mobile",
+        "normalField": [
+            {
+                "name": "Insurance"
+            },
+            {
+                "name": "Screen"
+            },
+            {
+                "name": "FrontCamera"
+            },
+            {
+                "name": "RearCamera"
+            },
+            {
+                "name": "Chipset"
+            },
+            {
+                "name": "Battery"
+            },
+            {
+                "name": "ScreenSize"
+            }
+        ],
+        "filterField": [
+            {
+                "name": "Brand",
+                "value": [
+                    "Samsung",
+                    "Oppo",
+                    "Vivo",
+                    "Iphone",
+                    "Nokia"
+                ]
+            },
+            {
+                "name": "RAM",
+                "value": [
+                    "2GB",
+                    "4GB",
+                    "8GB",
+                    "12GB",
+                    "16GB",
+                    "32GB"
+                ]
+            },
+            {
+                "name": "ROM",
+                "value": [
+                    "32GB",
+                    "64GB",
+                    "128GB",
+                    "256GB"
+                  
+                ]
+            }
+         
+        ]
+    }
+]

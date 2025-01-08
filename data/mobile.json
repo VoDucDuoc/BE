@@ -1,0 +1,1162 @@
+[
+    {
+        "name": "Samsung Galaxy A13 4GB/128GB Blue",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "TFT LCD"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "8MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "Main 48 MP & Sub 5 MP, 2 MP, 2 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "MediaTek Helio P35 8 core"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.5 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
+        "regularPrice": "385",
+        "sale": "5",
+        "salePrice": "365",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "The Samsung Galaxy A13 5G Mobile Phone features a 6.5 inches IPS LCD display with a screen resolution of 1080 x 2340 Pixels and runs on Android 11 Operating System. The Smart Phone is powered by Octa-core processor and MediaTek chipset. It has 64 GB / 128 GB Built-in storage and 4 GB / 8 GB RAM. The Samsung Galaxy A13 5G runs Android 11 and is powered by a 5000mAh Non-Removable Li-Po battery.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Samsung Galaxy S21 FE 8GB/256GB Blue",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "256GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "Infinity-O Super AMOLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "32MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "Main 12 MP, 8 MP, 12 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "MediaTek Helio P35 8 core"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.5 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4500 mAh"
+            }
+        ],
+        "productPictures": [
+            "4.jpg",
+            "5.jpg",
+            "6.jpg"
+        ],
+        "regularPrice": "129",
+        "sale": "8",
+        "salePrice": "121",
+        "quantity": "100",
+        "description": "Samsung Galaxy S21 FE 256GB 8GB RAM is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO A16s Green",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "64GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "IPS LCD"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "8MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "13 MP + 2MP + 2MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "MT6765 (P35) 8 core"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.52 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4230 mAh"
+            }
+        ],
+        "productPictures": [
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ],
+        "regularPrice": "409",
+        "sale": "10",
+        "salePrice": "360",
+        "quantity": "100",
+        "description": "Oppo A16s was launched in India on December 31, 2021 (Expected) at an introductory price of Rs 16,333 and is available in different color options like Dynamic Black, Fancy White. In addition to this, the mobile measures 164 mm x 75.4 mm x 7.9 mm; and weighs around 177 grams. The mobile from OPPO features 6.52 inches (16.56 cm) display that has a resolution of 720 x 1600 Pixels.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Samsung Galaxy S21 Ultra 5G 12GB/128GB Red",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            },
+            {
+                "name": "Ram",
+                "value": "12GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "Infinity-O, WQHD+, Dynamic AMOLED 2X"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "40MP AF F2.2"
+            },
+            {
+                "name": "RearCamera",
+                "value": "12MP (2PD) AF f2.2, 108MP F1.8 OIS"
+            },
+            {
+                "name": "Chipset",
+                "value": "Exynos 2100 (5nm)"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.8 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "10.jpg",
+            "11.jpg",
+            "12.jpg"
+        ],
+        "regularPrice": "2549",
+        "sale": "20",
+        "salePrice": "2042",
+        "quantity": "100",
+        "description": "The Samsung Galaxy S21 Ultra is also a true-blue flagship with cutting-edge components like the Exynos 2100 5G SoC. It managed to run graphically intensive games such as Call of Duty: Mobile and Asphalt 9: Legends at the QHD+ resolution. The Galaxy S21 Ultra also fully supports Samsung's S Pen, which is sold as an accessory.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO Reno4 Green",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "AMOLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "32MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "48MP; 8MP; 2MP; 2MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Qualcomm Snapdragon 720G"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.4 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4015mAH"
+            }
+        ],
+        "productPictures": [
+            "13.jpg",
+            "14.jpg",
+            "15.jpg"
+        ],
+        "regularPrice": "749",
+        "sale": "8",
+        "salePrice": "680",
+        "quantity": "100",
+        "description": "OPPO Reno4 is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Nokia 150 Black",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nokia"
+            },
+            {
+                "name": "Ram",
+                "value": "4MB"
+            },
+            {
+                "name": "Rom",
+                "value": "4MB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "LCD"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "None"
+            },
+            {
+                "name": "RearCamera",
+                "value": "VGA"
+            },
+            {
+                "name": "Chipset",
+                "value": "MT6261D"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "2.4 \""
+            },
+            {
+                "name": "Battery",
+                "value": "1020 mAh"
+            }
+        ],
+        "productPictures": [
+            "16.jpg",
+            "17.jpg",
+            "18.jpg"
+        ],
+        "regularPrice": "659",
+        "sale": "10",
+        "salePrice": "593",
+        "quantity": "100",
+        "description": "OPPO Reno4 is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Nokia C20 2GB/32GB Blue",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nokia"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "32GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "HD+ 20:9"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "5MP, f2.2 with Flash"
+            },
+            {
+                "name": "RearCamera",
+                "value": "VGA"
+            },
+            {
+                "name": "Chipset",
+                "value": "SC9863A 8 core | 1.6GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.5 \""
+            },
+            {
+                "name": "Battery",
+                "value": "2950 mAh"
+            }
+        ],
+        "productPictures": [
+            "19.jpg",
+            "20.jpg",
+            "21.jpg"
+        ],
+        "regularPrice": "219",
+        "sale": "3",
+        "salePrice": "214",
+        "quantity": "100",
+        "description": "Nokia C20 2GB/32GB is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO A16K 3GB/32GB Blue",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "32GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "LCD, Corning Gorilla Glass 3"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "5MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "13MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Helio G35 8 nhân, 2.3GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.52 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4230mAh"
+            }
+        ],
+        "productPictures": [
+            "22.jpg",
+            "23.jpg",
+            "24.jpg"
+        ],
+        "regularPrice": "335",
+        "sale": "5",
+        "salePrice": "321",
+        "quantity": "100",
+        "description": "OPPO A16K 3GB/32GB is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO A55 4GB/64GB Black",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "64GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "LCD, NEG T2X-1"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "16MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "50 MP, 2 MP, 2 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Helio G35, 2.3GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.5 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "25.jpg",
+            "26.jpg",
+            "27.jpg"
+        ],
+        "regularPrice": "455",
+        "sale": "8",
+        "salePrice": "421",
+        "quantity": "100",
+        "description": "OPPO A55 4GB/64GB is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Vivo Y21 4GB/64GB White",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Vivo"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "64GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "LCD"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "8MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "13MP + 2MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Mediatek Helio P35"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.51 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "28.jpg",
+            "29.jpg",
+            "30.jpg"
+        ],
+        "regularPrice": "389",
+        "sale": "10",
+        "salePrice": "304",
+        "quantity": "100",
+        "description": "Vivo Y21 4GB/64GB is powered with Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680) Qualcomm Snapdragon 888 processor so that you can enjoy a seamless performance while accessing multiple applications at the same time. Also, the phone comes with 8 GB RAM and 256 GB inbuilt storage so that you can store various files like songs, videos, games and more without worrying about space constraints. Besides, the Samsung Galaxy S21 FE 256GB 8GB RAM runs Android v12 operating system and houses a decent 4500 mAh battery that lets you use it for a longer time duration while watching movies, listening to songs, playing games and doing other stuff without worrying about battery drainage.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " iPhone 13 Pro 256GB Yellow",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Iphone"
+            },
+            {
+                "name": "Ram",
+                "value": "6GB"
+            },
+            {
+                "name": "Rom",
+                "value": "256GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "OLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "12MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "12MP-12MP-12MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Apple A15 Bionic"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.1 \""
+            },
+            {
+                "name": "Battery",
+                "value": "3095 mAh"
+            }
+        ],
+        "productPictures": [
+            "31.jpg",
+            "32.jpg",
+            "33.jpg"
+        ],
+        "regularPrice": "3399",
+        "sale": "19",
+        "salePrice": "3333",
+        "quantity": "100",
+        "description": "IPhone 13 is the company's most ambitious, productivity-centric smartphone yet. This phone is a little bit slimmer than its predecessor when unfolded and the overall weight is a bit lower at 271g (vs 282g), but it's still just as chunky in its folded state. The outer display or ‘cover screen' on the Samsung Galaxy Z Fold 3 is more or less the same as it was on the Galaxy Z Fold 2, except that it now supports an adaptive 120Hz refresh rate. The main attraction is of course the folding 7.6-inch AMOLED display which has a higher resolution of 2,208x1,768, along with HDR10 playback and a 120Hz refresh rate.You get a top-tier Qualcomm Snapdragon 888 SoC plus ample RAM and storage. The Galaxy Z Fold 3 also supports Samsung's S Pen ‘Fold Edition' and the new S Pen Pro. It's also now IPX8 rated for water resistance. Samsung's own apps are already optimised for multi-window use but the company has also collaborated with others including Spotify for better experiences on the Galaxy Z Fold 3.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Samsung Galaxy Z Fold 3 5G 512GB Black",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            },
+            {
+                "name": "Ram",
+                "value": "12GB"
+            },
+            {
+                "name": "Rom",
+                "value": "512GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "OLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "UDC, 4MP, FF, F1.8; HID, 10MP, FF, F2.2"
+            },
+            {
+                "name": "RearCamera",
+                "value": "12MP (2PD), F1.8, OIS; F2.2, 123°; Bokeh/ Tele: 12MP, F2.4, OIS, 2x Zoom"
+            },
+            {
+                "name": "Chipset",
+                "value": "Qualcomm SM8350 Snapdragon 888 (5 nm)"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "7.6 \""
+            },
+            {
+                "name": "Battery",
+                "value": "Li-Po 4400 mAh"
+            }
+        ],
+        "productPictures": [
+            "34.jpg",
+            "35.jpg",
+            "36.jpg"
+        ],
+        "regularPrice": "4399",
+        "sale": "3",
+        "salePrice": "4351",
+        "quantity": "100",
+        "description": "The Samsung Galaxy Z Fold 3 is the company's most ambitious, productivity-centric smartphone yet. This phone is a little bit slimmer than its predecessor when unfolded and the overall weight is a bit lower at 271g (vs 282g), but it's still just as chunky in its folded state. The outer display or ‘cover screen' on the Samsung Galaxy Z Fold 3 is more or less the same as it was on the Galaxy Z Fold 2, except that it now supports an adaptive 120Hz refresh rate. The main attraction is of course the folding 7.6-inch AMOLED display which has a higher resolution of 2,208x1,768, along with HDR10 playback and a 120Hz refresh rate.You get a top-tier Qualcomm Snapdragon 888 SoC plus ample RAM and storage. The Galaxy Z Fold 3 also supports Samsung's S Pen ‘Fold Edition' and the new S Pen Pro. It's also now IPX8 rated for water resistance. Samsung's own apps are already optimised for multi-window use but the company has also collaborated with others including Spotify for better experiences on the Galaxy Z Fold 3.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Nokia G10 4GB/64GB Blue",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nokia"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "64GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "OLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "8MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": " 13 MP + 2 MP + 2 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Mediatek G25 8x A53 2.0GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.5 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5050 mAh"
+            }
+        ],
+        "productPictures": [
+            "37.jpg",
+            "38.jpg",
+            "39.jpg"
+        ],
+        "regularPrice": "369",
+        "sale": "30",
+        "salePrice": "256",
+        "quantity": "100",
+        "description": "Nokia G10 is based on Android 11 and packs 32GB of inbuilt storage that can be expanded via microSD card (up to 512GB) with a dedicated slot. The Nokia G10 is a dual-SIM (GSM and GSM) mobile that accepts Micro-SIM and Nano-SIM cards. The Nokia G10 measures 164.90 x 76.00 x 9.20mm (height x width x thickness) and weighs 194.00 grams. It was launched in Dusk and Night colours.Connectivity options on the Nokia G10 include Wi-Fi 802.11 b/g/n, GPS, Bluetooth v5.00, USB Type-C, FM radio, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, proximity sensor, and fingerprint sensor. The Nokia G10 supports face unlock.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Samsung Galaxy Z Flip 3 5G 256GB Purple",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "256GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "Super AMOLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "10MP f2.4"
+            },
+            {
+                "name": "RearCamera",
+                "value": "12MP 2PD, OIS, F1.8; 2MP, F2.2, 123°"
+            },
+            {
+                "name": "Chipset",
+                "value": "Qualcomm SM8350 Snapdragon 888 (5 nm)"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "Main: 6.7\", Sub: 1.9\""
+            },
+            {
+                "name": "Battery",
+                "value": "3300 mAh"
+            }
+        ],
+        "productPictures": [
+            "40.jpg",
+            "41.jpg",
+            "42.jpg"
+        ],
+        "regularPrice": "2699",
+        "sale": "3",
+        "salePrice": "2669",
+        "quantity": "100",
+        "description": "The Samsung Galaxy Z Flip 3 is priced way lower than the Galaxy Z Fold 3, but it's still an expensive phone and sits in proper flagship territory. The big design change is the new dual-tone look and the larger outer display or cover screen. The main 6.7-inch display is a Dynamic AMOLED 2X panel with the same resolution as the previous model, only now it has a 120Hz maximum refresh rate.The Samsung Galaxy Z Flip 3 is powered by the Qualcomm Snapdragon 888 SoC. Some of the OneUI software tricks that we saw on the Samsung Galaxy Z Fold 3 have been modified for the Galaxy Z Flip 3. The Galaxy Z Flip 3 is definitely more manageable than the Galaxy Z Fold 3 in your hand. Games look and run great on this phone. If you give the sensors adequate light, the Samsung Galaxy Z Flip 3 can capture good details and colours.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO Reno6 Z 5G 8GB/128GB Black",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "AMOLED, Gorilla Glass 5"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "32MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "64MP + 8MP + 2MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "MTK Dimensity 800U 5G, 2.4GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.43 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4310mAh"
+            }
+        ],
+        "productPictures": [
+            "43.jpg",
+            "44.jpg",
+            "45.jpg"
+        ],
+        "regularPrice": "879",
+        "sale": "6",
+        "salePrice": "824",
+        "quantity": "100",
+        "description": "The Oppo Reno 6 shares a lot of features with the Pro model, such as the Bokeh Flare Portrait filter in the camera app, 65W fast charging, and a high refresh rate AMOLED display. The design gives off strong iPhone 12 vibes, but it really seems to work in its favour. The 6.42-inch AMOLED display looks very good. It has a full-HD+ resolution, Corning Gorilla Glass 5, 90Hz refresh rate, and a claimed peak brightness rating of up to 700nits.Oppo says this is India's first phone to sport the MediaTek Dimensity 900 SoC which is plenty powerful to handle daily tasks and games at the full-HD+ resolution. The 4,300mAh battery capacity might not sound too impressive, but with day-to-day usage, I was easily averaging more than a full day on single charge. The Oppo Reno 6 misses out on the rear depth camera that the Reno 6 Pro has, but apart from this, it has the same set of sensors on the front and back.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " IPhone 12 64GB Green",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Iphone"
+            },
+            {
+                "name": "Ram",
+                "value": "4GB"
+            },
+            {
+                "name": "Rom",
+                "value": "64GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "Super Retina XDR"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "12MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "12 MP (double)"
+            },
+            {
+                "name": "Chipset",
+                "value": "Apple A14 Bionic"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.1 \""
+            },
+            {
+                "name": "Battery",
+                "value": "2815 mAh"
+            }
+        ],
+        "productPictures": [
+            "46.jpg",
+            "47.jpg",
+            "48.jpg"
+        ],
+        "regularPrice": "2019",
+        "sale": "20",
+        "salePrice": "1812",
+        "quantity": "100",
+        "description": "The iPhone 12 costs more than its predecessors but has a crisp new HDR OLED screen. It offers nearly all the feaures of the iPhone 12 Pro, minus some camera capabilities, but should be a good enough package for most users. Apple has returned to a flat aluminium frame but the iPhone 12 promises to be more durable thanks to its Ceramic Shield material on the front and IP68 rating. You get the A14 Bionic SoC which makes everyday use extremely smooth and responsive, but the device does get a bit warm when stressed. Battery life is good, but not great, and you'll be able to get through a full day. The iPhone 12 is relatively light and easy to handle. iOS 14 has some new customisation options and privacy features.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Vivo Y72 5G 8GB/128GB Blue Pink",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Vivo"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "LCD (IPS)"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "16MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "64MP + 8MP + 2MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Mediatek Dimensity 700"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.58 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "49.jpg",
+            "50.jpg",
+            "51.jpg"
+        ],
+        "regularPrice": "739",
+        "sale": "5",
+        "salePrice": "681",
+        "quantity": "100",
+        "description": "The Vivo Y72 5G runs Funtouch OS 11.1 is based on Android 11 and packs 128GB of inbuilt storage. The Vivo Y72 5G is a dual-SIM (GSM and GSM) mobile that accepts Nano-SIM and Nano-SIM cards. The Vivo Y72 5G measures 164.15 x 75.35 x 8.40mm (height x width x thickness) and weighs 185.50 grams. It was launched in Prism Magic and Slate Gray colours.Connectivity options on the Vivo Y72 5G include Wi-Fi, GPS, Bluetooth v5.10, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India). Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " OPPO A94 8GB/128GB Black",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Oppo"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "AMOLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "32MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "48 MP + 8 MP + 2 MP + 2 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Helio P95, 2.2GHz"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.43 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4310mAh"
+            }
+        ],
+        "productPictures": [
+            "52.jpg",
+            "53.jpg",
+            "54.jpg"
+        ],
+        "regularPrice": "719",
+        "sale": "9",
+        "salePrice": "637",
+        "quantity": "100",
+        "description": "The Oppo A94 runs ColorOS 11.1 is based on Android 11 and packs 128GB of inbuilt storage that can be expanded via microSD card. The Oppo A94 is a dual-SIM (GSM and GSM) mobile that accepts Nano-SIM and Nano-SIM cards. The Oppo A94 measures 160.10 x 73.20 x 7.80mm (height x width x thickness) and weighs 172.00 grams. It was launched in Fantastic Purple and Fluid Black colours.Connectivity options on the Oppo A94 include Wi-Fi, GPS, Bluetooth v5.10, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India). Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, gyroscope, proximity sensor, and in-display fingerprint sensor. The Oppo A94 supports face unlock.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Xiaomi 11T 5G 128GB ",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Xiaomi"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "AMOLED"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "16MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "Main 108 MP & Sub 8 MP, 5 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "MediaTek Dimensity 1200 8 core"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.67 \""
+            },
+            {
+                "name": "Battery",
+                "value": "5000mAh"
+            }
+        ],
+        "productPictures": [
+            "55.jpg",
+            "56.jpg",
+            "57.jpg"
+        ],
+        "regularPrice": "1059",
+        "sale": "5",
+        "salePrice": "1039",
+        "quantity": "100",
+        "description": "The Redmi Note 11T 5G runs MIUI 12.5 is based on Android 11 and packs 64GB of inbuilt storage that can be expanded via microSD card (up to 1000GB). The Redmi Note 11T 5G is a dual-SIM (GSM and GSM) mobile that accepts Nano-SIM and Nano-SIM cards. The Redmi Note 11T 5G measures 163.56 x 75.78 x 8.75mm (height x width x thickness) and weighs 195.00 grams. It was launched in Aquamarine Blue, Matte Black, and Stardust White colours.Connectivity options on the Redmi Note 11T 5G include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.10, Infrared, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India). Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor.",
+        "category": "Mobile"
+    },
+    {
+        "quantitySold": "0",
+        "isAvailable": true,
+        "name": " Realme 8 Pro",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Realme"
+            },
+            {
+                "name": "Ram",
+                "value": "8GB"
+            },
+            {
+                "name": "Rom",
+                "value": "128GB"
+            },
+            {
+                "name": "Insurance",
+                "value": "12 month"
+            },
+            {
+                "name": "Screen",
+                "value": "Super AMOLED6.4\"Full HD+"
+            },
+            {
+                "name": "FrontCamera",
+                "value": "16MP"
+            },
+            {
+                "name": "RearCamera",
+                "value": "Main 108 MP & Sub 8 MP, 2 MP, 2 MP"
+            },
+            {
+                "name": "Chipset",
+                "value": "Snapdragon 720G"
+            },
+            {
+                "name": "ScreenSize",
+                "value": "6.67 \""
+            },
+            {
+                "name": "Battery",
+                "value": "4500 mAh"
+            }
+        ],
+        "productPictures": [
+            "58.jpg",
+            "59.jpg",
+            "60.jpg"
+        ],
+        "regularPrice": "869",
+        "sale": "17",
+        "salePrice": "831",
+        "quantity": "100",
+        "description": "Realme 8 Pro is the successor to the Realme 7 Pro and gets a bold design. It is slimmer than its predecessor and comes in flashy colours. The main change on the Realme 8 Pro is the quad-camera setup at the back which houses a 108-megapixel primary camera. The phone is light and easy to hold.It sports a 6.4-inch AMOLED display with a hole punch for the selfie camera in the top left corner. The display has full-HD+ resolution and an in-display fingerprint scanner. It is also powered by the Qualcomm Snapdragon 720G processor, with 6GB or 8GB of LPDDR4X RAM and 128GB of UFS 2.1 storage. You get a 4,500mAh battery that is capable of fast charging at 50W.",
+        "category": "Mobile"
+    }
+]

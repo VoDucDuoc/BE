@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Nikon Z7 FX-Format Mirrorless Camera",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nikon"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Mirrorless"
+            },
+            {
+                "name": "JPEG quality level",
+                "value": "Basic"
+            },
+            {
+                "name": "White balance settings",
+                "value": "Auto"
+            },
+            {
+                "name": "Lens Type",
+                "value": "Interchangeable"
+            },
+            {
+                "name": "Shooting Modes",
+                "value": "Aperture Priority"
+            },
+            {
+                "name": "Continuous Shooting Speed",
+                "value": "9fps"
+            }
+          
+        ],
+        "productPictures": [
+            "Nikon-Z7-FX-Format-Mirrorless-Camera-1.jpg",
+            "Nikon-Z7-FX-Format-Mirrorless-Camera-2.jpg",
+            "Nikon-Z7-FX-Format-Mirrorless-Camera-3.jpg"
+        ],
+        "regularPrice": "3343",
+        "sale": "10",
+        "salePrice": "3008",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "New larger Z mount for revolutionary optical performanceNikon-designed 45.7MP backside Illuminated image sensor with no optical low pass filter (OLPF)493-Point on-sensor phase detect AF system and up to 9 fpsPrecisely engineered Adapter for using F-mount nikkor lenses on Z Mirrorless camerasCompatible with over 360 F-mount nikkor lenses and TeleconverterConnected lenses retain full sharpness and image quality and gain benefits of in-camera VR, Hybrid AF*, silent shooting, focus Peaking and more",
+        "category": "Camera"
+    },
+    {
+        "name": "Z 50 DX-Format Mirrorless Camera",
+        "productPictures": [
+            "Z-50-DX-Format-Mirrorless-Camera-1.jpg",
+            "Z-50-DX-Format-Mirrorless-Camera-2.jpg",
+            "Z-50-DX-Format-Mirrorless-Camera-3.jpg"
+        ],
+        "regularPrice": "996",
+        "sale": "15",
+        "salePrice": "846",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Compact, lightweight and durably constructed mirrorless cameraFirst DX-format mirrorless camera to use a large 55 millimeter lens mount, offering advantages in high image quality and low light performance20.9 MP sensor with robust 4K UHD video featuresBuilt-in Wi-Fi and Bluetooth for simple pairing to a smartphone'Selfie' flip down touch LCD screen, great for self-portraits and bloggingCompatible with Nikkor Z lenses.Also compatible with F Mount NIKKOR Lenses using the FTZ Mount Adapter (sold separately)",
+        "category": "Camera",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nikon"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Mirrorless"
+            },
+            {
+                "name": "Special Feature",
+                "value": "EXPEED 6 Image Processor; Built-In Flash"
+            },
+            {
+                "name": "JPEG quality level",
+                "value": "Fine"
+            },
+            {
+                "name": "White balance settings",
+                "value": "Auto"
+            },
+            {
+                "name": "Shooting Modes",
+                "value": "Aperture Priority"
+            },
+            {
+                "name": "Lens Type",
+                "value": "Telephoto"
+            }
+        ]
+    },
+    {
+        "name": "Nikon Z6 FX-Format Mirrorless Camera ",
+        "productPictures": [
+            "Nikon-Z6-FX-Format-Mirrorless-Camera-1.jpg",
+            "Nikon-Z6-FX-Format-Mirrorless-Camera-2.jpg",
+            "Nikon-Z6-FX-Format-Mirrorless-Camera-3.jpg"
+        ],
+        "regularPrice": "2196",
+        "sale": "13",
+        "salePrice": "1910",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "New larger Z mount for revolutionary optical performanceNikon designed 24.5mp backside illuminated image sensor273 point on sensor phase detect AF systemUp to 12 fps; 4k ultra hd video; 8k time lapse; 120/1080p slow motionCompatible with new z Nikkor lenses, over 360 f mount Nikkor lenses",
+        "category": "Camera",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nikon"
+            },
+            {
+                "name": "Form Factor",
+                "value": "SLR"
+            },
+            {
+                "name": "White balance settings",
+                "value": "Auto"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Image-stabilization"
+            },
+            {
+                "name": "Shooting Modes",
+                "value": "Manual"
+            },
+            {
+                "name": "Lens Type",
+                "value": "Interchangeable"
+            }
+        ]
+    },
+    {
+        "name": "Nikon D610 24.3 MP CMOS FX-Format Digital SLR Camera",
+        "productPictures": [
+            "Nikon-D610-24.3-MP-CMOS-FX-Format-Digital-SLR-Camera-1.jpg",
+            "Nikon-D610-24.3-MP-CMOS-FX-Format-Digital-SLR-Camera-2.jpg",
+            "Nikon-D610-24.3-MP-CMOS-FX-Format-Digital-SLR-Camera-3.jpg"
+        ],
+        "regularPrice": "770",
+        "sale": "9",
+        "salePrice": "700",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "24.3MP full frame CMOS sensor39 point AF system (9 cross type)ISO 100 6400 expandable up to 25,6003.2 inch Lcd with 921,000 dots1080/30p, 25p or 24p or 720/60p, 50p or 30p hd video (mpeg 4 AVC/h.264)6 frames per second continuous shooting; 100% viewfinder coverageOperating environment temperature: 0 to 40°C/32 to 104°F2,016 pixel rgb ttl metering sensorSingle axis level in viewfinder, dual axis level in live view10.5mp dx format crop mode",
+        "category": "Camera",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nikon"
+            },
+            {
+                "name": "Form Factor",
+                "value": "SLR"
+            },
+            {
+                "name": "JPEG quality level",
+                "value": "Basic"
+            },
+            {
+                "name": "White balance settings",
+                "value": "Auto"
+            },
+            {
+                "name": "Lens Type",
+                "value": "Interchangeable"
+            },
+            {
+                "name": "Continuous Shooting Speed",
+                "value": "6fps"
+            },
+            {
+                "name": "Shooting Modes",
+                "value": "Program"
+            }    
+        ]
+    },
+    {
+        "name": "Nikon D850 FX-Format Digital SLR Camera",
+        "productPictures": [
+            "Nikon-D850-FX-Format-Digital-SLR-Camera-1.jpg",
+            "Nikon-D850-FX-Format-Digital-SLR-Camera-2.jpg",
+            "Nikon-D850-FX-Format-Digital-SLR-Camera-3.jpg"
+        ],
+        "regularPrice": "2029",
+        "sale": "20",
+        "salePrice": "1623",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Nikon designed back side illuminated (BSI) full frame image sensor with no optical low pass filter45.7 megapixels of extraordinary resolution, outstanding dynamic range and virtually no risk of moiréUp to 9 fps1 continuous shooting at full resolution with full AF performance8k6 and 4k time lapse movies with new levels of sharpness and detail; file system : DCF 2.0, exif 2.31, Pict bridgeTilting touchscreen, focus shift shooting mode, outstanding battery performance and much more; total pixels: 46.89 million4K Ultra HD video recording, slow motion up to 120 FPS at 1080p",
+        "category": "Camera",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Nikon"
+            },
+            {
+                "name": "Form Factor",
+                "value": "SLR"
+            },
+            {
+                "name": "JPEG quality level",
+                "value": "Normal"
+            },
+            {
+                "name": "White balance settings",
+                "value": "Auto"
+            },
+            {
+                "name": "Lens Type",
+                "value": "Fisheye"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Digital-camera"
+            },
+            {
+                "name": "Continuous Shooting Speed",
+                "value": "12fps"
+            },
+            {
+                "name": "Shooting Modes",
+                "value": "Automatic"
+            }    
+        ]
+    }
+]

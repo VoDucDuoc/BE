@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Insignia NS-32DF310NA19 32-inch Smart HD TV",
+        "productPictures": [
+            "Insignia-NS-32DF310NA19-32-inch-Smart-HD-TV-1.jpg",
+            "Insignia-NS-32DF310NA19-32-inch-Smart-HD-TV-2.jpg",
+            "Insignia-NS-32DF310NA19-32-inch-Smart-HD-TV-3.jpg"
+        ],
+        "regularPrice": "199",
+        "sale": "25",
+        "salePrice": "149",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Insignia HD Smart TV is a new generation of television featuring the Fire TV experience built-in and including a Voice Remote with Insignia delivers a superior TV experience that gets smarter everyday. The Voice Remote with Alexa lets you do everything you'd expect from a remote—plus, easily launch apps, search for titles, play music, switch inputs, control smart home devices, and more, using just your voice.",
+        "category": "Tivi",
+        "categoryInfo": [
+            {
+                "name": "Screen Size",
+                "value": "31.5 Inches"
+            },
+            {
+                "name": "Supported Internet Services",
+                "value": "Netflix, Pandora, Amazon Instant Video, Hulu Plus"
+            },
+            {
+                "name": "Resolution",
+                "value": "720p"
+            },
+            {
+                "name": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "60Hz"
+            },
+            {
+                "name": "Brand",
+                "value": "INSIGNIA"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Wireless"
+            },
+            {
+                "name": "Control method",
+                "value": "App"
+            },
+            {
+                "name": "Features",
+                "value": "3D"
+            },
+            {
+                "name": "Screen Type",
+                "value": "Curved"
+            }
+        ]
+    },
+    {
+        "name": "TCL 32-inch 1080p Roku Smart LED TV",
+        "productPictures": [
+            "TCL-32-inch-1080p-Roku-Smart-LED-TV-1.jpg",
+            "TCL-32-inch-1080p-Roku-Smart-LED-TV-2.jpg",
+            "TCL-32-inch-1080p-Roku-Smart-LED-TV-3.jpg"
+        ],
+        "regularPrice": "219",
+        "sale": "15",
+        "salePrice": "186",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "32-Inch class HD Roku Smart TV. Roku TV personalized home screen. Dual-band 802.11n wireless. 3 HDMI inputs, analog video input, USB port, digital and analog audio output. Digital television tuner. 1080P resolution. 60Hz CMI. USB File Format Compatibility : Video: MKV (H.264), MP4, MOV (H.264), TS (H.264) Music: AAC, MP3, WMA, WAV (PCM), AIFF, FLAC, AC3 Photo: JPG, PNG, GIF Wireless Connection : 802.11 2x2 Dual Band",
+        "category": "Tivi",
+        "categoryInfo": [
+            {
+                "name": "Screen Size",
+                "value": "32 Inches"
+            },
+            {
+                "name": "Supported Internet Services",
+                "value": "Netflix, Skype, Hulu, Youtube, Spotify, Amazon Instant Video"
+            },
+            {
+                "name": "Resolution",
+                "value": "1080p"
+            },
+            {
+                "name": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "240Hz"
+            },
+            {
+                "name": "Brand",
+                "value": "TCL"
+            },
+            {
+                "name": "Connectivity",
+                "value": "HDMI"
+            },
+            {
+                "name": "Control method",
+                "value": "Touch"
+            },
+            {
+                "name": "Features",
+                "value": "Smart TV"
+            },
+            {
+                "name": "Screen Type",
+                "value": "Flat"
+            }
+        ]
+    },
+    {
+        "name": "VIZIO 65-Inch V-Series 4K UHD LED HDR Smart TV",
+        "productPictures": [
+            "VIZIO-65-Inch-V-Series-4K-UHD-LED-HDR-Smart-TV-1.jpg",
+            "VIZIO-65-Inch-V-Series-4K-UHD-LED-HDR-Smart-TV-2.jpg",
+            "VIZIO-65-Inch-V-Series-4K-UHD-LED-HDR-Smart-TV-3.jpg"
+        ],
+        "regularPrice": "1458",
+        "sale": "30",
+        "salePrice": "1020",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "VIZIO redefines value with the V-Series 4K HDR Smart TV. Escape into awesome entertainment with epic 4K picture quality, full array backlighting and Dolby Vision HDR. The next-gen speed and power of the IQ Active processor brings astonishing detail and vibrancy to your viewing experience. Take your gaming to a whole new level with the V-Gaming Engine for the lowest input lag and Auto Game Mode. VIZIO’s award-winning SmartCast platform delivers the best selection of apps from top-tier streaming services, support for Apple AirPlay 2 and Chromecast built-in, live TV and hundreds of free streaming channels on WatchFree+, and VIZIO’s all-new Voice Remote. V-series is everything you need and more in a Smart TV, delivering a standout experience at an unmatched price.",
+        "category": "Tivi",
+        "categoryInfo": [
+            {
+                "name": "Screen Size",
+                "value": "70 Inches"
+            },
+            {
+                "name": "Supported Internet Services",
+                "value": "Apple TV+, Crackle, Disney+, Fandango, fuboTV, HBO Max, Hulu, iHeartRadio, Netflix"
+            },
+            {
+                "name": "Resolution",
+                "value": "4K"
+            },
+            {
+                "name": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "120Hz"
+            },
+            {
+                "name": "Brand",
+                "value": "VIZIO"
+            },
+            {
+                "name": "Connectivity",
+                "value": "USB"
+            },
+            {
+                "name": "Control method",
+                "value": "Voice"
+            },
+            {
+                "name": "Features",
+                "value": "Smart TV"
+            },
+            {
+                "name": "Screen Type",
+                "value": "Curved"
+            }
+        ]
+    },
+    {
+        "name": "Hisense 40-Inch Class H4 Series LED Roku Smart TV",
+        "productPictures": [
+            "Hisense-40-Inch-Class-H4-Series-LED-Roku-Smart-TV-1.jpg",
+            "Hisense-40-Inch-Class-H4-Series-LED-Roku-Smart-TV-2.jpg",
+            "Hisense-40-Inch-Class-H4-Series-LED-Roku-Smart-TV-3.jpg"
+        ],
+        "regularPrice": "699",
+        "sale": "10",
+        "salePrice": "630",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "With a high definition display, smart features, and a wealth of content options, the 40H4F 40-inch LED TV is a dream come true for binge watchers. Combining rich 1080p picture quality, intuitively smart Roku TV platform, built-in Wi-Fi, and innovative technologies, the Hisense Roku TV H4F series smart TV’s are great for all your needs — streaming, cable, satellite, gaming, and free over-the-air TV. Enjoy all the key moments in fast-paced sports, movies, and games with motion rate 120-image processing, minimizing picture lag to create a clear image without motion blur. Game mode offers super-low latency that reduces input lag, ensuring fast video game action is processed quickly for optimal controller response. You will be blown away by the full, detailed sound of the integrated DTS trusurround sound from the TV's integrated speakers. Roku TV's simplified home screen and streamlined remote provide easy to access your cable box or HDTV antenna, one-touch access to favorite channels and streaming services, and access to over 5,000 streaming channels and 500,000 movies and TV episodes. Control the TV with your iOS or android device via the easy-to-use Roku TV remote app, or use your voice to power your TV on and off, change channels, search for shows, and more through an Alexa-enabled device or Google Assistant (both sold separately).",
+        "category": "Tivi",
+        "categoryInfo": [
+            {
+                "name": "Screen Size",
+                "value": "39.5 Inches"
+            },
+            {
+                "name": "Supported Internet Services",
+                "value": "Netflix, Amazon Instant Video, Hulu Plus, Google TV, YouTube"
+            },
+            {
+                "name": "Resolution",
+                "value": "1080p"
+            },
+            {
+                "name": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "60Hz"
+            },
+            {
+                "name": "Brand",
+                "value": "Hisense"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Ethernet"
+            },
+            {
+                "name": "Control method",
+                "value": "Remote"
+            },
+            {
+                "name": "Features",
+                "value": "3D"
+            },
+            {
+                "name": "Screen Type",
+                "value": "Curved"
+            }
+        ]
+    },
+    {
+        "name": "SAMSUNG 43-Inch Class Crystal UHD AU8000 Series - 4K UHD HDR Smart TV",
+        "productPictures": [
+            "SAMSUNG-43-Inch-Class-Crystal-UHD-AU8000-Series-4K-UHD-HDR-Smart-TV-1.jpg",
+            "SAMSUNG-43-Inch-Class-Crystal-UHD-AU8000-Series-4K-UHD-HDR-Smart-TV-2.jpg",
+            "SAMSUNG-43-Inch-Class-Crystal-UHD-AU8000-Series-4K-UHD-HDR-Smart-TV-3.jpg"
+        ],
+        "regularPrice": "1399",
+        "sale": "5",
+        "salePrice": "1329",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Take your Smart TV viewing to amazing new heights in Crystal UHD with the super slim, minimalistic Samsung 43-inch Class AU8000 Crystal UHD 4K HDR Smart TV with 3 HDMI Ports. Elevated, lifelike clarity offers you a picture that has to be seen to be believed, thanks to the dynamic Crystal Processor 4K that delivers vibrant, picture-perfect viewing. Add in Smart features that make watching even easier¹. Ask more from your TV with multiple built-in voice assistants. Choose from Alexa², Google Assistant³, and Bixby Voice⁴ to help you search for movies, change the channel, adjust the volume and more. Dive into shows and films, and watch in striking detail with this Samsung Smart TV powered by HDR10+, while experiencing smooth performance with the Motion Xcelerator. Adaptive sound ensures that you get the perfect audio experience, automatically adjusting the sound to enhance dialogue, music and sports so that you can hear every detail. A boundless screen with nearly no frame means that you are left with beautiful images to enjoy. Samsung’s TV range offers the ultimate in latest viewing technology, from inspiring Samsung Neo QLED 8K to bright and colorful 4K and crisp HD screens. Samsung combines elegant design with the latest smart and innovative technology, built not just for the way you watch, but for the way you live. ¹Viewing experience may vary according to types of content and format. ²Amazon, Alexa, and all related logos are trademarks of Amazon.com, Inc. or its affiliate. ³The Google Assistant service may not yet be available at the time of purchase of this product, please continue to check for app updates. Google is a trademark of Google LLC. ⁴Bixby voice commands recognize English (US/UK), French, Spanish, German, Italian, Chinese and Korean. Not all accents, dialects and expressions recognized. The list of features that can be controlled by voice commands via Bixby will continue to expand. Mobile functionality compatible with Samsung Galaxy 8 series or higher with Bixby function. Samsung account log-in and data network (Wi-Fi or internet connection) required to fully operate Bixby features.",
+        "category": "Tivi",
+        "categoryInfo": [
+            {
+                "name": "Screen Size",
+                "value": "43 Inches"
+            },
+            {
+                "name": "Supported Internet Services",
+                "value": "Netflix, Amazon Instant Video, Hulu Plus, Google TV, YouTube"
+            },
+            {
+                "name": "Resolution",
+                "value": "4K"
+            },
+            {
+                "name": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "240Hz"
+            },
+            {
+                "name": "Brand",
+                "value": "SAMSUNG"
+            },
+            {
+                "name": "Connectivity",
+                "value": "HDMI"
+            },
+            {
+                "name": "Control method",
+                "value": "Voice"
+            },
+            {
+                "name": "Features",
+                "value": "Smart TV"
+            },
+            {
+                "name": "Screen Type",
+                "value": "Curved"
+            }
+        ]
+    }
+]

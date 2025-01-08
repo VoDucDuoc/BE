@@ -1,0 +1,186 @@
+[
+    {
+        "name": "TIMMKOO 4.0 Full Touch Screen Mp3 Mp4 Player",
+        "productPictures": [
+            "TIMMKOO-4.0-Full-Touch-Screen-Mp3-Mp4-Player-1.jpg",
+            "TIMMKOO-4.0-Full-Touch-Screen-Mp3-Mp4-Player-2.jpg",
+            "TIMMKOO-4.0-Full-Touch-Screen-Mp3-Mp4-Player-3.jpg"
+        ],
+        "regularPrice": "49",
+        "sale": "15",
+        "salePrice": "42",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "【Smooth Running,Stable Pairing】-- The Q5 mp3 player uses a 4-core MTK chip to make the device respond faster and run more smoothly. It is equipped with a full-featured duplex Bluetooth, which has a wider and stable Bluetooth compatibility, and is perfectly connected to Bluetooth headphones, speakers and car stereo.【Excellent Audio-visual Experience】-- 4 inches high-definition screen, support 720p, 1080p high-resolution video and HiFi lossless music playing, Q5 player has everything that an excellent Mp4 player should have. It brings you unparalleled Film viewing and music enjoyment.【Long Battery Life】 -- Q5 Bluetooth music player has a built-in 1800mAh lithium battery and uses a low-power solution, which enables the player to continuously play 77 hours of music or 10 hours of video, even 670 hours standby. Fully meet your travel or sports needs.",
+        "category": "Music player",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "TIMMKOO"
+            },
+            {
+                "name": "Memory Storage Capacity",
+                "value": "8GB"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Bluetooth"
+            },
+            {
+                "name": "Supported Standards",
+                "value": "MP3"
+            },
+            {
+                "name": "Media Type",
+                "value": "Micro SD"
+            },
+            {
+                "name": "Battery Life",
+                "value": "670 Hours"
+            },
+            {
+                "name": "Screen Size",
+                "value": "4 Inches"
+            }
+        ]
+    },
+    {
+        "name": "SanDisk 32GB Clip Sport Plus MP3 Player",
+        "productPictures": [
+            "SanDisk-32GB-Clip-Sport-Plus-MP3-Player-1.jpg",
+            "SanDisk-32GB-Clip-Sport-Plus-MP3-Player-2.jpg",
+            "SanDisk-32GB-Clip-Sport-Plus-MP3-Player-3.jpg"
+        ],
+        "regularPrice": "59",
+        "sale": "25",
+        "salePrice": "44",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "The affordable, lightweight SanDisk Clip Sport Plus MP3 player gives you the freedom to work out the way you want. Durable and water-resistant, it's ready for a muddy mountain bike ride or a trail run in the rain. Use the lightweight earphones included or enable the Bluetooth wireless technology and pair it with your favorite Bluetooth wireless headset. With 32GB capacity, you can clip up to 8000 songs to your clothes. Stop worrying about your device and focus on your workout. (IEC 60529 IPX5: Tested to withstand water flow (12.5L/min) at 3 min. Must be clean and dry before use.) (1GB=1,000,000,000 bytes. Actual user storage capacity less.) (Based on 3.5 min songs @ 128kbps bitrate. Approximations: results will vary based on file attributes and other factors.)",
+        "category": "Music player",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "SanDisk"
+            },
+            {
+                "name": "Memory Storage Capacity",
+                "value": "32GB"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Bluetooth"
+            },
+            {
+                "name": "Supported Standards",
+                "value": "MP3"
+            },
+            {
+                "name": "Media Type",
+                "value": "Micro SDHC"
+            },
+            {
+                "name": "Battery Life",
+                "value": "600 Hours"
+            },
+            {
+                "name": "Screen Size",
+                "value": "7 Inches"
+            }
+        ]
+    },
+    {
+        "name": "MP3 Player MP4 Player, Hotechs MP3 Music Player",
+        "productPictures": [
+            "MP3-Player-MP4-Player-Hotechs-MP3-Music-Player-1.jpg",
+            "MP3-Player-MP4-Player-Hotechs-MP3-Music-Player-2.jpg",
+            "MP3-Player-MP4-Player-Hotechs-MP3-Music-Player-3.jpg"
+        ],
+        "regularPrice": "21",
+        "sale": "5",
+        "salePrice": "19",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "【32GB Large Storage】The portable MP3 player comes with a 16 GB memory SD card and support up to 128GB(not included). Play music with MP3/Voice record/FM Radio/E-book support TXT format/ photo view / video with AMV format.【Easily to Operate 】Designed with Independent Volume Control, Give you a more user-friendly experience.Can also be used as a memory Card reader or for file storage;Built in high speed Mini USB 2.0 cables,Just drag and drop the music file or folder directly when connecting to computer【HIFI Lossless Sound Quality】It adopts professional intelligent digital noise reduction chip and superb circuit optimization technology to reduce noise, ensuring high sound sampling rate and providing high quality sound.",
+        "category": "Music player",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Hotechs"
+            },
+            {
+                "name": "Memory Storage Capacity",
+                "value": "32GB"
+            },
+            {
+                "name": "Connectivity",
+                "value": "USB"
+            },
+            {
+                "name": "Supported Standards",
+                "value": "AAC"
+            },
+            {
+                "name": "Media Type",
+                "value": "SD Card"
+            },
+            {
+                "name": "Battery Life",
+                "value": "10 Hours"
+            },
+            {
+                "name": "Screen Size",
+                "value": "1.82 Inches"
+            }
+        ]
+    },
+    {
+        "name": "32GB Mp3 Player with Bluetooth 5.0",
+        "productPictures": [
+            "32GB-Mp3-Player-with-Bluetooth-5.0-1.jpg",
+            "32GB-Mp3-Player-with-Bluetooth-5.0-2.jpg",
+            "32GB-Mp3-Player-with-Bluetooth-5.0-3.jpg"
+        ],
+        "regularPrice": "49",
+        "sale": "3",
+        "salePrice": "47",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Mp3 player built-in bluetooth 5.0,provide faster data transfer speed(40% increase) and more stable connection,the connection distance is also longer.In addition, power consumption will be reduced, increasing battery life.ENJOY CUTTING-EDGE TECHNOLOGY",
+        "category": "Music player",
+        "categoryInfo": [
+            {
+                "name": "Brand",
+                "value": "Aiworth"
+            },
+            {
+                "name": "Memory Storage Capacity",
+                "value": "32GB"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Bluetooth"
+            },
+            {
+                "name": "Supported Standards",
+                "value": "MP4"
+            },
+            {
+                "name": "Media Type",
+                "value": "Micro SD"
+            },
+            {
+                "name": "Battery Life",
+                "value": "2 years"
+            },
+            {
+                "name": "Screen Size",
+                "value": "2.4 Inches"
+            }
+        ]
+    }
+]

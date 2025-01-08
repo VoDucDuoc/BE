@@ -1,0 +1,374 @@
+[
+    {
+        "name": "CYBERPOWERPC Gamer Xtreme VR Gaming PC",
+        "productPictures": [
+            "CYBERPOWERPC-Gamer-Xtreme-VR-Gaming-PC-1.jpg",
+            "CYBERPOWERPC-Gamer-Xtreme-VR-Gaming-PC-2.jpg",
+            "CYBERPOWERPC-Gamer-Xtreme-VR-Gaming-PC-3.jpg"
+        ],
+        "regularPrice": "2299",
+        "sale": "20",
+        "salePrice": "1839",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Destroy the competition with the CYBERPOWERPC Gamer Xtreme VR series of gaming desktops. The Gamer Xtreme VR series features the latest generation of high performance Intel Core processors and ultra-quick DDR RAM to easily handle system-intensive tasks, such as high definition video playback and gaming. Coupled with powerful discreet video cards, the Gamer Xtreme series provides a smooth gaming and multimedia experience.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Gaming"
+            },
+            {
+                "name": "Series",
+                "value": "Gamer Xtreme VR"
+            },
+            {
+                "name": "RAM",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Core i7"
+            },
+            {
+                "name": "Brand",
+                "value": "CyberpowerPC"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "IBM"
+            },
+            {
+                "name": "Screen Size",
+                "value": "0.1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Solid State Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "1024x768"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Ethernet"
+            }
+        ]
+    },
+    {
+        "name": "Skytech Gaming Archangel Gaming Computer PC Desktop",
+        "productPictures": [
+            "Skytech-Gaming-Archangel-Gaming-Computer-PC-Desktop-1.jpg",
+            "Skytech-Gaming-Archangel-Gaming-Computer-PC-Desktop-2.jpg",
+            "Skytech-Gaming-Archangel-Gaming-Computer-PC-Desktop-3.jpg"
+        ],
+        "regularPrice": "1229",
+        "sale": "5",
+        "salePrice": "1167",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Designed for Esports and online multiplayer games like Fortnite, CS:GO and Valorant, a Skytech Archangel 3.0 was made for competitive gamers. Featuring completely upgradable components and designed with excellent cooling capability with 4 fans to move massive amounts of air. Archangel 3.0 is a great choice for mid-range performance and first time PC gamers.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Personal"
+            },
+            {
+                "name": "Series",
+                "value": "Archangel"
+            },
+            {
+                "name": "RAM",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Core i5"
+            },
+            {
+                "name": "Brand",
+                "value": "Skytech Gaming"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "Intel"
+            },
+            {
+                "name": "Screen Size",
+                "value": "1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Mechanical Hard Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "1920x1028"
+            },
+            {
+                "name": "Connectivity",
+                "value": "HDMI"
+            }
+        ]
+    },
+    {
+        "name": "Skytech Chronos Mini Gaming PC Desktop",
+        "productPictures": [
+            "Skytech-Chronos-Mini-Gaming-PC-Desktop-1.jpg",
+            "Skytech-Chronos-Mini-Gaming-PC-Desktop-2.jpg",
+            "Skytech-Chronos-Mini-Gaming-PC-Desktop-3.jpg"
+        ],
+        "regularPrice": "1199",
+        "sale": "9",
+        "salePrice": "1091",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "The Skytech Chronos Mini offers the best gaming computer built up to date to quickly run popular games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at Ultra settings, detailed 1080p HD resolution, and smooth 60+ FPS gameplay.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Gaming"
+            },
+            {
+                "name": "Series",
+                "value": "Chronos Mini"
+            },
+            {
+                "name": "RAM",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Ryzen 3 3100"
+            },
+            {
+                "name": "Brand",
+                "value": "Skytech Gaming"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "Screen Size",
+                "value": "1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Hybrid Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "1920x1080"
+            },
+            {
+                "name": "Connectivity",
+                "value": "USB"
+            }
+        ]
+    },
+    {
+        "name": "Acer Nitro 50 N50-620-UA91 Gaming Desktop",
+        "productPictures": [
+            "Acer-Nitro-50-N50-620-UA91-Gaming-Desktop-1.jpg",
+            "Acer-Nitro-50-N50-620-UA91-Gaming-Desktop-2.jpg",
+            "Acer-Nitro-50-N50-620-UA91-Gaming-Desktop-3.jpg"
+        ],
+        "regularPrice": "818",
+        "sale": "3",
+        "salePrice": "793",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "The powerful Nitro 50 desktop delivers an iconic gaming experience courtesy of the many awesome features inside, including its 11th Gen Intel Core i5 processor & NVIDIA GeForce GTX 1650 graphics—that’s powered by NVIDIA Turing GPU architecture! Next, toss in its advanced cooling & stellar audio capabilities, and all of the other gaming-rich features, & you quickly see why the Nitro 50 delivers a knockout blow to the competition! Dominate the battlefield with Acer’s Nitro 50 gaming desktop.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Gaming"
+            },
+            {
+                "name": "Series",
+                "value": "N50-620-UA91"
+            },
+            {
+                "name": "RAM",
+                "value": "8 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Core i5"
+            },
+            {
+                "name": "Brand",
+                "value": "Acer"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "Intel"
+            },
+            {
+                "name": "Screen Size",
+                "value": "0.1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Hybrid Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "3840x2160"
+            },
+            {
+                "name": "Connectivity",
+                "value": "HDMI"
+            }
+        ]
+    },
+    {
+        "name": "CUK Stratos Micro Gaming Desktop",
+        "productPictures": [
+            "CUK-Stratos-Micro-Gaming-Desktop-1.jpg",
+            "CUK-Stratos-Micro-Gaming-Desktop-2.jpg",
+            "CUK-Stratos-Micro-Gaming-Desktop-3.jpg"
+        ],
+        "regularPrice": "2899",
+        "sale": "21",
+        "salePrice": "2290",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "Step up your games with the ultimate gaming PC, the CUK Stratos Micro. The Stratos Micro packs all the features of a ATX system in a mATX size. With a smaller foot print, the CUK Stratos Micro will give you back more desk space without sacrificing style and maximum PC performance.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Gaming"
+            },
+            {
+                "name": "Series",
+                "value": "Stratos Micro"
+            },
+            {
+                "name": "RAM",
+                "value": "64 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Core i9"
+            },
+            {
+                "name": "Brand",
+                "value": "Computer Upgrade King"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "Intel"
+            },
+            {
+                "name": "Screen Size",
+                "value": "0.1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Solid State Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "1920x1028"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Ethernet"
+            }
+        ]
+    },
+    {
+        "name": "SkyTech Blaze II Gaming Computer PC Desktop",
+        "productPictures": [
+            "SkyTech-Blaze-II-Gaming-Computer-PC-Desktop-1.jpg",
+            "SkyTech-Blaze-II-Gaming-Computer-PC-Desktop-2.jpg",
+            "SkyTech-Blaze-II-Gaming-Computer-PC-Desktop-3.jpg"
+        ],
+        "regularPrice": "1199",
+        "sale": "8",
+        "salePrice": "983",
+        "quantity": "100",
+        "quantitySold": "0",
+        "isAvailable": true,
+        "description": "The SkyTech Blaze II offers the best gaming computer built up to date with the Intel i5 10400F Processor and NVIDIA GeForce GTX 1660 Super 6GB Graphic Card that can easily run popular games such as Call of Duty Warzone, Fornite, Escape from Tarkov, Grand Theft Auto V, World of Warcraft, League of Legends, Apex Legends, Roblox, PLAYERUNKNOWN’s Battlegrounds, Overwatch, Counter-Strike: Global Offensive, Battlefield V, Minecraft, The Division 2, and more at 60 FPS+ 1080P at high to Ultra setting.",
+        "category": "PC",
+        "categoryInfo": [
+            {
+                "name": "Computer usage",
+                "value": "Multimedia"
+            },
+            {
+                "name": "Series",
+                "value": "Blaze II"
+            },
+            {
+                "name": "RAM",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Core i5"
+            },
+            {
+                "name": "Brand",
+                "value": "Skytech Gaming"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "Intel"
+            },
+            {
+                "name": "Screen Size",
+                "value": "1 inches"
+            },
+            {
+                "name": "Hard drive type",
+                "value": "Mechanical Hard Drive"
+            },
+            {
+                "name": "Resolution",
+                "value": "3840x2160"
+            },
+            {
+                "name": "Connectivity",
+                "value": "Ethernet"
+            }
+        ]
+    }
+]
