@@ -81,12 +81,12 @@ exports.update = async (req, res) => {
   try {
     const { name, categoryInfo, labels, ...other } = req.body;
     const parseCate = categoryInfo.map((cate) => JSON.parse(cate));
-    // let pictures;
     const updateOption = {
       name,
       categoryInfo: parseCate,
       ...other,
     };
+
     if (req.files.length > 0) {
       const p = await Product.findById(req.params.id).exec();
 
@@ -108,23 +108,28 @@ exports.update = async (req, res) => {
         );
         await Promise.all(deletedImagePromises);
       }
+
+      const imagePromies = req.files.map(
+        (file) =>
+          new Promise((resolve, reject) => {
+            cloudinary.uploader.upload(file.path, (err, result) => {
+              if (err) {
+                reject(err);
+              } else {
+                console.log({ url: result.url });
+                fs.unlink(file.path);
+                resolve(result.url);
+              }
+            });
+          })
+      );
+      const img = await Promise.all(imagePromies);
+      updateOption.productPictures = img;
+    } else {
+      const p = await Product.findById(req.params.id).exec();
+      updateOption.productPictures = p.productPictures;
     }
-    const imagePromies = req.files.map(
-      (file) =>
-        new Promise((resolve, reject) => {
-          cloudinary.uploader.upload(file.path, (err, result) => {
-            if (err) {
-              reject(err);
-            } else {
-              console.log({ url: result.url });
-              fs.unlink(file.path);
-              resolve(result.url);
-            }
-          });
-        })
-    );
-    const img = await Promise.all(imagePromies);
-    updateOption.productPictures = img;
+
     const updatedProduct = await Product.findByIdAndUpdate(
       req.params.id,
       {

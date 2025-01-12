@@ -127,17 +127,18 @@ async function updateNewPasswordForForgetPassword(userEmail) {
 
 async function sendEmail(userEmail, newPwd) {
   let transporter = nodemailer.createTransport({
-    service: "gmail",
     host: "smtp.gmail.com",
+    port: 587,
+    secure: false,
     auth: {
-      user: "quangtienclone@gmail.com",
-      pass: "Tien123!",
+      user: process.env.EMAIL_USERNAME,
+      pass: process.env.EMAIL_PASSWORD,
     },
   });
 
   // send mail with defined transport object
   return await transporter.sendMail({
-    from: "nightmarelod9@gmail.com", // sender address
+    from: process.env.EMAIL_USERNAME, // sender address
     to: userEmail, // list of receivers
     subject: "Change password success ✔", // Subject line
     text: "This is your new Password: " + newPwd, // plain text body

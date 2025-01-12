@@ -35,7 +35,6 @@ module.exports = function (socket, io) {
           (doc) => doc.createdAt.toISOString() === commentCreatedAt
         );
 
-        const isPositive = isPositiveComment
         io.emit("submit", newCommentBeAdded);
 
         const newNotify = new Notify({
@@ -87,34 +86,3 @@ module.exports = function (socket, io) {
     io.emit("reply", updatedComment);
   });
 };
-
-
-function textSentimentAnalysis(comment) {
-  const encodedParams = new URLSearchParams();
-  encodedParams.append("text", comment);
-
-  const options = {
-    method: 'POST',
-    url: 'https://text-sentiment.p.rapidapi.com/analyze',
-    headers: {
-      'content-type': 'application/x-www-form-urlencoded',
-      'X-RapidAPI-Host': 'text-sentiment.p.rapidapi.com',
-      'X-RapidAPI-Key': 'ef38a2e0a2mshc7dc123112124a5p163e08jsn6ceae79072eb'
-    },
-    data: encodedParams
-  };
-
-  axios.request(options).then(function (response) {
-    return response.data;
-  }).catch(function (error) {
-    return error;
-  });
-}
-
-function isPositiveComment(comment) {
-  const resultAnalysisComment = textSentimentAnalysis(comment);
-
-  if (parseFloat(resultAnalysisComment.pos_percent) >= parseFloat(resultAnalysisComment.neg_percent)
-    || parseFloat(resultAnalysisComment.mid_percent) > parseFloat(resultAnalysisComment.neg_percent))
-    return true;
-}
