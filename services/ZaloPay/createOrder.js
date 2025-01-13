@@ -24,7 +24,7 @@ exports.zaloCreateOrder = (orderIdFromServer, orderItemFromServer, orderPriceFro
     item: JSON.stringify(items),
     embed_data: JSON.stringify(embed_data),
     amount: orderPriceFromServer,
-    description: `Lazada - Payment for the order #${transID}`,
+    description: `#${transID}`,
     bank_code: "zalopayapp",
   };
 
